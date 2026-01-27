@@ -1,1 +1,12 @@
-@import 'tailwindcss'
+@import 'tailwindcss';
+body{
+    font-family: Poppins;
+    font-size: 14px;
+}
+@theme {
+    --color-primary: #5F48E5;
+    --color-secondary: #E44775;
+    --color-background: #FFFFFF;
+    --color-text: #000000;
+    --color-surface: #282A3A;
+}
