@@ -1,5 +1,5 @@
 <template>
-    <header class="flex justify-between items-center  py-2">
+    <header class="flex justify-between px-10 items-center sticky top-0 bg-white border-b border-slate-100 py-2">
         <!-- navbar-brand -->
         <a class="p-2 font-bold bg-pink-50 px-5 py-3 text-secondary rounded-xs" href="">
             < Fst_toamasina /> 

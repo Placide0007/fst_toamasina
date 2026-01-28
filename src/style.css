@@ -1,12 +1,18 @@
-@import 'tailwindcss';
-body{
-    font-family: Poppins;
-    font-size: 14px;
-}
+@import "tailwindcss";
+/* @import "@fontsource-variable/space-grotesk"; */
 @theme {
+    --font-sans: "Space Grotesk", system-ui, sans-serif;
+
     --color-primary: #5F48E5;
     --color-secondary: #E44775;
     --color-background: #FFFFFF;
     --color-text: #000000;
     --color-surface: #282A3A;
 }
+
+body {
+    /* font-family: var(--font-sans); */
+    font-family: Poppins;
+    font-size: 14px;
+}
+

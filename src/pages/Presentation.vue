@@ -1,3 +1,5 @@
 <template>
-    <p>presentation</p>
+    <div>
+        <p>Lorem ipsum dolor sit amet.</p>
+    </div>
 </template>
